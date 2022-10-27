@@ -30,7 +30,7 @@
   "_app.a3a8f3c0.js": {
     "file": "assets/app.a3a8f3c0.js",
     "css": [
-      "assets/app.c1864ea2.css"
+      "assets/app.52dc45bc.css"
     ],
     "assets": [
       "assets/GoodSans-Light.e65c7563.woff2",
@@ -39,8 +39,8 @@
     "integrity": "sha384-MCY/tA1n35bNmYb8k0+uY6L4uXkr0pVuy/oVyyOTfIujyy/qivCn36Q1aCQ8NLwT"
   },
   "app.css": {
-    "file": "assets/app.c1864ea2.css",
+    "file": "assets/app.52dc45bc.css",
     "src": "app.css",
-    "integrity": "sha384-ssj49ybbRgnEoGQnLPdiiS9/UU0ovaujNc7s8HVHX9GKUv8ty5D8EEL6uCwEuQcU"
+    "integrity": "sha384-5GnQYqfsbpmw8ql/swDS/t9d8Z+a8QNM2UH9MKwkGanWRDqZFNJGZuSy31W2xI+b"
   }
 }
