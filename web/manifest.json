@@ -1,4 +1,14 @@
 {
+  "src/fonts/GoodSans-Black.woff2": {
+    "file": "assets/GoodSans-Black.a09954db.woff2",
+    "src": "src/fonts/GoodSans-Black.woff2",
+    "integrity": "sha384-IGabpisDoz4E58tgkYftLaf33+FAkvGfB4+e7VdG7qiutyNryQZ49w3EIUHhFTju"
+  },
+  "src/fonts/GoodSans-Light.woff2": {
+    "file": "assets/GoodSans-Light.e65c7563.woff2",
+    "src": "src/fonts/GoodSans-Light.woff2",
+    "integrity": "sha384-xViCYwxy2x/8pzPHVziD7EozvTOMi7qlFVqRVvP6ALohwwlyiYwYI2wBPVstaAob"
+  },
   "src/js/app.js": {
     "file": "assets/app.2e73cdb0.js",
     "src": "src/js/app.js",
@@ -20,13 +30,17 @@
   "_app.a3a8f3c0.js": {
     "file": "assets/app.a3a8f3c0.js",
     "css": [
-      "assets/app.609f3e33.css"
+      "assets/app.c1864ea2.css"
+    ],
+    "assets": [
+      "assets/GoodSans-Light.e65c7563.woff2",
+      "assets/GoodSans-Black.a09954db.woff2"
     ],
     "integrity": "sha384-MCY/tA1n35bNmYb8k0+uY6L4uXkr0pVuy/oVyyOTfIujyy/qivCn36Q1aCQ8NLwT"
   },
   "app.css": {
-    "file": "assets/app.609f3e33.css",
+    "file": "assets/app.c1864ea2.css",
     "src": "app.css",
-    "integrity": "sha384-guD628BLCnapbwSlKqC4TpzGfUsoiGWcQIzp3efX5DoQoRUDwy9cys/3G7+EbaL8"
+    "integrity": "sha384-ssj49ybbRgnEoGQnLPdiiS9/UU0ovaujNc7s8HVHX9GKUv8ty5D8EEL6uCwEuQcU"
   }
 }

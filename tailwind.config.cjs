@@ -3,11 +3,13 @@ module.exports = {
 	content: ["index.html", "./src/scripts/**/*.js"],
 	theme: {
 		fontFamily: {
-			// sans: ["'neue-haas-grotesk-text'", ...defaultTheme.fontFamily.sans],
-			// serif: ["'palatino'", ...defaultTheme.fontFamily.serif],
+			sans: ["'good-sans'", ...defaultTheme.fontFamily.sans],
 		},
 		spacing: {
 			0: "0rem",
+			10: "0.625rem",
+			20: "1.25rem",
+			40: "2.5rem",
 			px: "1px",
 			em: "1em",
 			rem: "1rem",
@@ -15,8 +17,31 @@ module.exports = {
 		colors: {
 			transparent: "transparent",
 			current: "currentColor",
-			white: "#FFFFFF",
-			black: "#000000",
+			white: "#F9F1EF",
+			black: "#1e1c1e",
+		},
+		fontSize: {
+			sm: [
+				"0.875rem",
+				{
+					lineHeight: "1.43em",
+					letterSpacing: "-0.02em",
+				},
+			],
+			md: [
+				"1.25rem",
+				{
+					lineHeight: "1.43em",
+					letterSpacing: "-0.02em",
+				},
+			],
+			lg: [
+				"1.875rem",
+				{
+					lineHeight: "1.067em",
+					letterSpacing: "-0.02em",
+				},
+			],
 		},
 		extend: {
 			height: {
