@@ -1,0 +1,32 @@
+{
+  "src/js/app.js": {
+    "file": "assets/app.2e73cdb0.js",
+    "src": "src/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_app.a3a8f3c0.js"
+    ],
+    "integrity": "sha384-Yt0LixwDVsg5VL68XrWwpTHW5O9OLa+e6MQg9JgkU8PonAXMkWiS2UJSwz71pTXZ"
+  },
+  "index.html": {
+    "file": "assets/main.d4ff9d67.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_app.a3a8f3c0.js"
+    ],
+    "integrity": "sha384-HkodLN1vl2dvwhnsduUCJDB2as+EDLYRXTHd80+aG8PLwS5P9Tm9ffDfyPRflbD0"
+  },
+  "_app.a3a8f3c0.js": {
+    "file": "assets/app.a3a8f3c0.js",
+    "css": [
+      "assets/app.609f3e33.css"
+    ],
+    "integrity": "sha384-MCY/tA1n35bNmYb8k0+uY6L4uXkr0pVuy/oVyyOTfIujyy/qivCn36Q1aCQ8NLwT"
+  },
+  "app.css": {
+    "file": "assets/app.609f3e33.css",
+    "src": "app.css",
+    "integrity": "sha384-guD628BLCnapbwSlKqC4TpzGfUsoiGWcQIzp3efX5DoQoRUDwy9cys/3G7+EbaL8"
+  }
+}
